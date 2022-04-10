@@ -22,4 +22,4 @@ Smart Contract for Oceans Finance
   </a>
 </div>
 
-PLEASE VIEW OUR WHITEPAPER HEREhttps://whitepaper.oceans.finance
+PLEASE VIEW OUR WHITEPAPER HERE       https://whitepaper.oceans.finance
