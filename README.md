@@ -21,3 +21,5 @@ Smart Contract for Oceans Finance
     <img alt="Twitter Follow Oceans Finance" src="https://img.shields.io/twitter/follow/oceans_finance"/>
   </a>
 </div>
+
+PLEASE VIEW OUR WHITEPAPER HEREhttps://whitepaper.oceans.finance
